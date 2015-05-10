@@ -16,7 +16,7 @@ Avertissement: Le but de ce kata est de mettre l'accent sur la notion de test d'
 ## Contexte: User story
 
 
-//As a (user), I want to (action) so that (benefit)''.
+As a (user), I want to (action) so that (benefit).
 
   1. transformer la story en élément spécifiable, l’implémenter sous la forme d’un test pour la vérifier (tests unitaire / intégration)
   2. mieux: écrire la spec comme un test unitaire, avant le code. C’est du test-driven development, et c’est so 2002.
